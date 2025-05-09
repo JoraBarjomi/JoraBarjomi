@@ -21,7 +21,6 @@
 ---
 
 - 🌱 I’m currently learning basics of programming
-- 🤔 I’m looking for help with learning GO
 
 ---
 
