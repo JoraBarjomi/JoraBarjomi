@@ -1,5 +1,5 @@
 # 👋 Hi! I'm Jora Barjomi 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/JoraBarjomi)  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoCOlor=white)](https://t.me/JoraBarjomi)  
 ### 🎓 1st-Year Student at Siberian State University of Telecommunications and Informatics (SibGUTI), Novosibirsk  
 **Group:** `IKS-433`  
 **Specialization:** Information & Communication Technologies  
@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ **Tech Stack**  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
