@@ -27,8 +27,5 @@
 ## 📈 **GitHub Stats**  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoraBarjomi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoraBarjomi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoraBarjomi&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
----
 
-> 💡 **My Motto:**  
-> *"Learning is like rowing upstream: stop moving, and you drift back!"*  
+---
