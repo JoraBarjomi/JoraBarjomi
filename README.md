@@ -23,20 +23,16 @@
 
 ---
 
-## 📈 **GitHub Stats**
-
+<h2 align="center">📈 <strong>GitHub Stats</strong></h2>
+<p align="center">
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoraBarjomi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 ---
 
-## 🧠 **LeetCode Stats**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JoraBarjomi?theme=dark&ext=contest)
-
+<h2 align="center">🧠 <strong>LeetCode Stats</strong></h2>
+<p align="center">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/JoraBarjomi?theme=dark&ext=contest)
+</p>
 ---
 
-## 💻 **Top Languages**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoraBarjomi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
