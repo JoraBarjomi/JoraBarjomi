@@ -25,10 +25,13 @@
 
 ## 📈 **GitHub Stats**
 
-<p align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoraBarjomi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/JoraBarjomi?theme=dark&ext=contest)]
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoraBarjomi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🧠 **LeetCode Stats**
+
+[![LeetCode Stats](https://leetcode-card.vercel.app/api?username=JoraBarjomi&theme=dark&ext=contest)](https://leetcode.com/JoraBarjomi)
 
 ---
 
