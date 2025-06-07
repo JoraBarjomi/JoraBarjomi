@@ -11,7 +11,7 @@
 
 🎓 1st-Year Student at **Siberian State University of Telecommunications and Informatics (SibGUTI)**, Novosibirsk  
 🧑‍🏫 **Group:** `IKS-433`  
-📡 **Specialization:** *Mobile Communication Software Engineering*
+📡 **Specialization:** *Mobile Communication Software Engineering*   
 📘 Currently focused on: `Programming`, `Computer Networks`, and `Linux Basics`
 
 ---
