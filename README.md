@@ -1,25 +1,37 @@
-# 👋 Hi! I'm Jora Barjomi [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/JoraBarjomi)
-### 🎓 1st-Year Student at Siberian State University of Telecommunications and Informatics (SibGUTI), Novosibirsk  
-**Group:** `IKS-433`  
-**Specialization:** Information & Communication Technologies  
+<h1 align="center">👋 Hi! I'm <strong>Jora Barjomi</strong></h1>
+<p align="center">
+  <a href="https://t.me/JoraBarjomi">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ **Tech Stack**  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+## 📚 About Me
 
-**Currently Learning:**  
-📦 Algorithm Basics | 🌐 Networking | 🐧 Linux  
+🎓 1st-Year Student at **Siberian State University of Telecommunications and Informatics (SibGUTI)**, Novosibirsk  
+🧑‍🏫 **Group:** `IKS-433`  
+📡 **Specialization:** *Mobile Communication Software Engineering*
+📘 Currently focused on: `Programming`, `Computer Networks`, and `Linux Basics`
 
 ---
 
-- 🌱 I’m currently learning basics of programming
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🧪 Currently Exploring:
+- 📦 Algorithms & Data Structures  
+- 🌐 Computer Networking Fundamentals  
+- 🐧 Linux Command Line & System Tools  
 
 ---
 
@@ -32,6 +44,7 @@
 </p>
 
 ---
+
 <h2 align="center">🧠 <strong>LeetCode Stats</strong></h2>
 
 <p align="center">
@@ -40,3 +53,9 @@
 
 ---
 
+## 📬 Contacts
+
+- 📱 Telegram: [@JoraBarjomi](https://t.me/JoraBarjomi)  
+- 💻 GitHub: [JoraBarjomi](https://github.com/JoraBarjomi)
+
+---
