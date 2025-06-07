@@ -31,7 +31,7 @@
 
 ## 🧠 **LeetCode Stats**
 
-[![LeetCode Stats](https://leetcode-card.vercel.app/api?username=JoraBarjomi&theme=dark&ext=contest)](https://leetcode.com/JoraBarjomi)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JoraBarjomi?theme=dark&ext=contest)
 
 ---
 
