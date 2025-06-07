@@ -25,12 +25,18 @@
 
 <h2 align="center">📈 <strong>GitHub Stats</strong></h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoraBarjomi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoraBarjomi&show_icons=true&theme=dark" alt="GitHub Stats" />
+  </a>
+</p>
 
 ---
 <h2 align="center">🧠 <strong>LeetCode Stats</strong></h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JoraBarjomi?theme=dark&ext=contest)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/JoraBarjomi?theme=dark&ext=contest" alt="LeetCode Stats" />
+</p>
 
 ---
 
