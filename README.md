@@ -26,6 +26,7 @@
 ## 📈 **GitHub Stats**  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoraBarjomi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoraBarjomi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=goshaqwerty)](https://github.com/KnlnKS/leetcode-stats)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JoraBarjomi?theme=unicorn&ext=contest)
+
 
 ---
