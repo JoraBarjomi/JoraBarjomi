@@ -30,9 +30,9 @@
   <img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 </p>
-
+<p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=JoraBarjomi" />
-  
+</p>
 ---
 ### 🧪 Currently Exploring:
 - 📦 Algorithms & Data Structures  
