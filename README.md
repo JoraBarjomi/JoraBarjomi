@@ -47,12 +47,14 @@
 
 <h2 align="center">⚡️ <strong>Problem Solving</strong></h2>
 
-<p align="left">
+<div display="flex">
+<p>  
   <img src="https://leetcard.jacoblin.cool/JoraBarjomi?theme=dark&ext=contest" alt="LeetCode Stats" />
 </p>
-<p align="right">
+<p>
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jorabarjomi&theme=dark" alt="Codeforces Stats" />
 </p>
+</div>
 
 ---
 
