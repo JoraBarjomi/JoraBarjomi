@@ -29,9 +29,11 @@
   <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/-TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=JoraBarjomi" />
 </p>
 
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=JoraBarjomi" />
+  
+---
 ### 🧪 Currently Exploring:
 - 📦 Algorithms & Data Structures  
 - 🌐 Computer Networking Fundamentals  
