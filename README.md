@@ -33,7 +33,9 @@
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=JoraBarjomi" />
 </p>
+
 ---
+
 ### 🧪 Currently Exploring:
 - 📦 Algorithms & Data Structures  
 - 🌐 Computer Networking Fundamentals  
