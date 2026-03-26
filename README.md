@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kotlin-F05032?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TS-F05032?style=for-the-badge&logo=ts&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TS-F05032?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-F05032?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
