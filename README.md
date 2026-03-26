@@ -45,14 +45,13 @@
 
 ---
 
-<h2 align="center">🧠 <strong>LeetCode Stats</strong></h2>
+<h2 align="center">⚡️ <strong>Problem Solving</strong></h2>
 
-<p align="center">
+<p align="left">
   <img src="https://leetcard.jacoblin.cool/JoraBarjomi?theme=dark&ext=contest" alt="LeetCode Stats" />
 </p>
-
-<p>
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jorabarjomi)
+<p align="right">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jorabarjomi&theme=dark" alt="Codeforces Stats" />
 </p>
 
 ---
