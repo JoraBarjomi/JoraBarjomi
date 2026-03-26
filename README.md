@@ -51,6 +51,10 @@
   <img src="https://leetcard.jacoblin.cool/JoraBarjomi?theme=dark&ext=contest" alt="LeetCode Stats" />
 </p>
 
+<p>
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=jorabarjomi)
+</p>
+
 ---
 
 ## 📬 Contacts
