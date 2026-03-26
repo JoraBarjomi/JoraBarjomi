@@ -38,9 +38,7 @@
 <h2 align="center">📈 <strong>GitHub Stats</strong></h2>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=JoraBarjomi&show_icons=true&theme=dark" alt="GitHub Stats" />
-  </a>
 </p>
 
 ---
