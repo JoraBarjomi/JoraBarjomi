@@ -47,8 +47,7 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=JoraBarjomi&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="JoraBarjomi's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=JoraBarjomi&theme=default&hide_border=true" alt="JoraBarjomi's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=JoraBarjomi&theme=dark&hide_border=true" alt="JoraBarjomi's GitHub Stats" />
   
 </p>
 
