@@ -46,9 +46,9 @@
 <h2 align="center">📈 <strong>GitHub Stats</strong></h2>
 
 <p align="center">
-
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoraBarjomi" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoraBarjomi&layout=compact&langs_count=8&card_width=320" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=JoraBarjomi&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="JoraBarjomi's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=JoraBarjomi&theme=default&hide_border=true" alt="JoraBarjomi's GitHub Stats" />
   
 </p>
 
