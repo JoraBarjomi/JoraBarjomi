@@ -1,7 +1,5 @@
 <h1 align="center"><strong>Jora Barjomi</strong></h1>
 
----
-
 ## About Me
 
 2nd-Year Student at **Siberian State University of Telecommunications and Informatics ([SibSUTIS](https://sibsutis.ru/))**, Novosibirsk  
@@ -26,6 +24,8 @@
  
 </p>
 
+---
+
 <h2 align="center"><strong>GitHub Stats</strong></h2>
 
 <p align="center">
@@ -33,9 +33,6 @@
   <img src="https://streak-stats.demolab.com?user=JoraBarjomi&theme=dark&hide_border=true" alt="JoraBarjomi's GitHub Stats" />
   
 </p>
-
-
----
 
 <h2 align="center"><strong>Problem Solving</strong></h2>
 
