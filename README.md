@@ -1,11 +1,7 @@
-<h1 align="center"><strong>Jora Barjomi</strong></h1>
-
 ## About Me
 
-2nd-Year Student at **Siberian State University of Telecommunications and Informatics ([SibSUTIS](https://sibsutis.ru/))**, Novosibirsk  
+2nd-Year Student at **Siberian State University of Telecommunications and Informatics ([SibSUTIS])**, Novosibirsk  
 **Specialization:** *09.03.01 Mobile Communication Software Engineering*    
-
----
 
 ## Tech
 
@@ -24,8 +20,6 @@
  
 </p>
 
----
-
 <h2 align="center"><strong>GitHub Stats</strong></h2>
 
 <p align="center">
@@ -41,11 +35,8 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jorabarjomi&theme=dark" alt="Codeforces Stats" />
 </p>
 
----
-
 ## Contacts
 
 - 📱 Telegram: [@JoraBarjomi](https://t.me/JoraBarjomi)  
 - 💻 GitHub: [JoraBarjomi](https://github.com/JoraBarjomi)
 
----
