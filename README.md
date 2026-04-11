@@ -1,49 +1,36 @@
-<h1 align="center">👋 Hi! I'm <strong>Jora Barjomi</strong></h1>
-<p align="center">
-  <a href="https://t.me/JoraBarjomi">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
+<h1 align="center"><strong>Jora Barjomi</strong></h1>
 
 ---
 
-## 📚 About Me
+## About Me
 
-🎓 2nd-Year Student at **Siberian State University of Telecommunications and Informatics (SibGUTI)**, Novosibirsk  
-🧑‍🏫 **Group:** `IKS-433`  
-📡 **Specialization:** *Mobile Communication Software Engineering*   
-📘 Currently focused on: `Programming`, `Computer Networks`, and `Linux Basics`
+2nd-Year Student at **Siberian State University of Telecommunications and Informatics ([SibSUTIS](https://sibsutis.ru/))**, Novosibirsk  
+**Specialization:** *09.03.01 Mobile Communication Software Engineering*    
 
 ---
 
-## 🛠️ Tech Stack
+## Tech
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-222222?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++">  
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+  <img src=" https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+ 
 </p>
+
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=JoraBarjomi" />
 </p>
 
----
-
-### 🧪 Currently Exploring:
-- 📦 Algorithms & Data Structures  
-- 🌐 Computer Networking Fundamentals  
-- 🐧 Linux Command Line & System Tools  
-
----
-
-<h2 align="center">📈 <strong>GitHub Stats</strong></h2>
+<h2 align="center"><strong>GitHub Stats</strong></h2>
 
 <p align="center">
   
@@ -54,7 +41,7 @@
 
 ---
 
-<h2 align="center">⚡️ <strong>Problem Solving</strong></h2>
+<h2 align="center"><strong>Problem Solving</strong></h2>
 
 <p align="center">  
   <img src="https://leetcard.jacoblin.cool/JoraBarjomi?theme=dark&ext=contest" alt="LeetCode Stats" />
@@ -63,7 +50,7 @@
 
 ---
 
-## 📬 Contacts
+## Contacts
 
 - 📱 Telegram: [@JoraBarjomi](https://t.me/JoraBarjomi)  
 - 💻 GitHub: [JoraBarjomi](https://github.com/JoraBarjomi)
