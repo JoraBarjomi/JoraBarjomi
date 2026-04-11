@@ -1,6 +1,6 @@
 ## About Me
 
-2nd-Year Student at **Siberian State University of Telecommunications and Informatics ([SibSUTIS])**, Novosibirsk  
+2nd-Year Student at **Siberian State University of Telecommunications and Informatics (SibSUTIS)**, Novosibirsk  
 **Specialization:** *09.03.01 Mobile Communication Software Engineering*    
 
 ## Tech
