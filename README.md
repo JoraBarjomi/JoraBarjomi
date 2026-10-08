@@ -6,6 +6,7 @@
 ## Tech
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++">  
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++">  
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
